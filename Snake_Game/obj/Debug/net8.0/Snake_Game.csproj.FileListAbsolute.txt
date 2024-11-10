@@ -1,0 +1,15 @@
+C:\Users\27682\Desktop\C# Beginner Projects\Snake_Game\bin\Debug\net8.0\Snake_Game.exe
+C:\Users\27682\Desktop\C# Beginner Projects\Snake_Game\bin\Debug\net8.0\Snake_Game.deps.json
+C:\Users\27682\Desktop\C# Beginner Projects\Snake_Game\bin\Debug\net8.0\Snake_Game.runtimeconfig.json
+C:\Users\27682\Desktop\C# Beginner Projects\Snake_Game\bin\Debug\net8.0\Snake_Game.dll
+C:\Users\27682\Desktop\C# Beginner Projects\Snake_Game\bin\Debug\net8.0\Snake_Game.pdb
+C:\Users\27682\Desktop\C# Beginner Projects\Snake_Game\obj\Debug\net8.0\Snake_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\27682\Desktop\C# Beginner Projects\Snake_Game\obj\Debug\net8.0\Snake_Game.AssemblyInfoInputs.cache
+C:\Users\27682\Desktop\C# Beginner Projects\Snake_Game\obj\Debug\net8.0\Snake_Game.AssemblyInfo.cs
+C:\Users\27682\Desktop\C# Beginner Projects\Snake_Game\obj\Debug\net8.0\Snake_Game.csproj.CoreCompileInputs.cache
+C:\Users\27682\Desktop\C# Beginner Projects\Snake_Game\obj\Debug\net8.0\Snake_Game.sourcelink.json
+C:\Users\27682\Desktop\C# Beginner Projects\Snake_Game\obj\Debug\net8.0\Snake_Game.dll
+C:\Users\27682\Desktop\C# Beginner Projects\Snake_Game\obj\Debug\net8.0\refint\Snake_Game.dll
+C:\Users\27682\Desktop\C# Beginner Projects\Snake_Game\obj\Debug\net8.0\Snake_Game.pdb
+C:\Users\27682\Desktop\C# Beginner Projects\Snake_Game\obj\Debug\net8.0\Snake_Game.genruntimeconfig.cache
+C:\Users\27682\Desktop\C# Beginner Projects\Snake_Game\obj\Debug\net8.0\ref\Snake_Game.dll
